@@ -1,0 +1,20 @@
+[
+    {   
+        "title":"Netflix",
+        "price":1343.99,
+        "thumbnail":"http://netflix.com",
+        "id":1
+    },
+    {
+        "title":"Amazon Prime",
+        "price":400.25,
+        "thumbnail":"http://amazon.com",
+        "id":2
+    },
+    {
+        "title":"HBO Máx",
+        "price":123.45,
+        "thumbnail":"http://hbo.com",
+        "id":3
+    }
+]
